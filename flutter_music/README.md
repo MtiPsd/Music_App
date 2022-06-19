@@ -21,7 +21,9 @@ samples, guidance on mobile development, and a full API reference.
 ******************************************  
 ****************************************** 
 
-Here is some picture from project : 
+Here are some pictures from project : 
 
 
-![----------------_------------](https://user-images.githubusercontent.com/95580073/174479002-eee9f90c-f2c6-4277-a4ac-39fa35bdb2ef.jpg)
+![Webp net-resizeimage (1)](https://user-images.githubusercontent.com/95580073/174479128-afd4eef8-8338-4e2a-a54c-21a49be2dd36.jpg)
+![Webp net-resizeimage (2)](https://user-images.githubusercontent.com/95580073/174479130-3dd43d87-4976-4eaa-8b2f-41bf2b97c890.jpg)
+![Webp net-resizeimage](https://user-images.githubusercontent.com/95580073/174479131-ad960496-b4d2-47fa-8ef1-812a056ba259.jpg)
