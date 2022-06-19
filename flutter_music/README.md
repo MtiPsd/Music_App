@@ -24,7 +24,4 @@ samples, guidance on mobile development, and a full API reference.
 Here is some picture from project : 
 
 
-
-![۲۰۲۲۰۶۱۹_۱۵۵۱۲۶](https://user-images.githubusercontent.com/95580073/174478801-ca19e83a-ddbf-4dba-9cda-e6fdfd1e0d3c.jpg | width=100)
-![۲۰۲۲۰۶۱۹_۱۵۵۱۴۲](https://user-images.githubusercontent.com/95580073/174478803-1495029f-9dc1-420c-b3a6-4015ba6edd14.jpg | width=100)
-![۲۰۲۲۰۶۱۹_۱۵۵۲۰۰](https://user-images.githubusercontent.com/95580073/174478804-aa165ef1-1968-4cc5-a677-7218822f016e.jpg | width=100)
+![----------------_------------](https://user-images.githubusercontent.com/95580073/174479002-eee9f90c-f2c6-4277-a4ac-39fa35bdb2ef.jpg)
